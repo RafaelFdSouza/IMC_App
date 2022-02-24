@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="peso_em_kg">Peso em Quilogramas</string>
+    <string name="peso">Peso</string>
+    <string name="altura_em_cm">Altura em Centímetros</string>
+    <string name="altura">Altura</string>
+    <string name="kg">Kg</string>
+    <string name="cm">cm</string>
+    <string name="calcular">Calcular</string>
+    <string name="imc_ideal">IMC ideal (entre 18,5 e 24,9)</string>
+
+</resources>
